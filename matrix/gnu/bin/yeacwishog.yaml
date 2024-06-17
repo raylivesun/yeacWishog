@@ -1,0 +1,79 @@
+matrix: matrix, dimension
+   connection: self.connection, dimension
+   buffer: self.buffer, dimension
+   location: self.location
+   port: self.port
+   address: self.address
+   editors: self.editors
+   code: self.code
+   yeactory: self.yeactory
+   yeacwishognizer: self.yeacwishognizer
+   firework: self.firework, self.firework
+   size: self.size
+   body: self.body
+   magic: self.magic
+   develop: self.develop
+testing: self.testing
+done: self.done
+results: self.results
+success: self.success
+http_status: self.http_status
+http_headers: self.http_headers
+http_body: self.http_body
+http_content: self.http_content
+http_content_type: self.http_content_type
+http_content_encoding: self.http_content_encoding
+http_content_language: self.http_content_language
+http_content_location: self.http_content_location
+http_content_md5: self.http_content_md5
+http_content_range: self.http_content_range
+http_etag: self.http_etag
+http_expires: self.http_expires
+http_last_modified: self.http_last_modified
+http_link: self.http_link
+http_location: self.http_location
+http_max_forwards: self.http_max_forwards
+http_proxy_authenticate: self.http_proxy_authenticate
+http_proxy_authorization: self.http_proxy_authorization
+http_refresh: self.http_refresh
+http_server: self.http_server
+http_set_cookie: self.http_set_cookie
+http_strict_transport_security: self.http_strict_transport_security
+http_vary: self.http_vary
+http_via: self.http_via
+http_warning: self.http_warning
+http_x_accel_buffering: self.http_x_accel_buffering
+http_x_accel_expires: self.http_x_accel_expires
+http_x_accel_redirect: self.http_x_accel_redirect
+http_x_frame_options: self.http_x_frame_options
+http_x_xss_protection: self.http_x_xss_protection
+http_x_content_type_options: self.http_x_content_type_
+http_x_download_options: self.http_x_download_options
+http_x_permitted_cross_domain_policies: self.http_x_per
+http_x_powered_by: self.http_x_powered_by
+http_x_request_id: self.http_x_request_id
+http_x_served_by: self.http_x_served_by
+http_x_ua_compatible: self.http_x_ua_compatible
+http_x_xss_protection: self.http_x_xss_protection
+http_x_content_type_options: self.http_x_content_type_
+http_x_download_options: self.http_x_download_options
+http_x_permitted_cross_domain_policies: self.http_x_per
+http_x_powered_by: self.http_x_powered_by
+http_x_request_id: self.http_x_request_id
+http_x_served_by: self.http_x_served_by
+http_x_ua_compatible: self.http_x_ua_compatible
+http_x_xss_protection: self.http_x_xss_protection
+http_x_content_type_options: self.http_x_content_type_
+http_x_download_options: self.http_x_download_options
+http_x_permitted_cross_domain_policies: self.http_x_per
+http_x_powered_by: self.http_x_powered_by
+http_x_request_id: self.http_x_request_id
+http_x_served_by: self.http_x_served_by
+http_x_ua_compatible: self.http_x_ua_compatible
+http_x_xss_protection: self.http_x_xss_protection
+http_x_content_type_options: self.http_x_content_type_
+http_x_download_options: self.http_x_download_options
+http_x_permitted_cross_domain_policies: self.http_x_per
+http_x_powered_by: self.http_x_powered_by
+http_x_request_id: self.http_x_request_id
+http_x_served_by: self.http_x_served_by
